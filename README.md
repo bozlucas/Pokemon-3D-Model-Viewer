@@ -29,3 +29,6 @@ This iOS app allows users to view a 3D model of a Pokemon based on its Pokemon T
 
 **Compatible TCG cards: Gardevoir 061/198 and Chewtle 026/072**
 
+## Contribution
+
+If you would like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
