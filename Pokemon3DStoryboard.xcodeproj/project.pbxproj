@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A0CD3B0A29B4211900A720C0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A0DD98ED29A68DC8005458A6 /* Pokemon3DStoryboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pokemon3DStoryboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0DD98F029A68DC8005458A6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A0DD98F229A68DC8005458A6 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -39,6 +40,7 @@
 		A0DD98E429A68DC8005458A6 = {
 			isa = PBXGroup;
 			children = (
+				A0CD3B0A29B4211900A720C0 /* README.md */,
 				A0DD98EF29A68DC8005458A6 /* Pokemon3DStoryboard */,
 				A0DD98EE29A68DC8005458A6 /* Products */,
 			);
